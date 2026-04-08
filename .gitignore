@@ -1,0 +1,6 @@
+venv/
+outputs/
+data/
+saved_models/
+__pycache__/
+*.pyc
