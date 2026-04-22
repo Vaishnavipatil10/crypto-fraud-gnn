@@ -2,6 +2,9 @@
 
 > **GNN (fraud detection) + LSTM (price prediction) + SHAP (explainability) + Streamlit (dashboard)**
 
+Requires:
+Python 3.10.2: Download Link: https://www.python.org/ftp/python/3.10.2/python-3.10.2-amd64.exe
+
 ---
 
 ## Project Structure
